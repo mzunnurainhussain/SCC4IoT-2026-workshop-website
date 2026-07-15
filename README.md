@@ -25,7 +25,7 @@ vercel
 - Browser icon: `assets/favicon.svg`
 
 ## Before launch
-- Replace or confirm committee entries once invitations are accepted.
+- Add confirmed Programme Committee members only after they have formally agreed to serve.
 - Add the official IoT 2026 conference URL when available.
 - Confirm ACM author template and publication wording with the conference chairs.
 - Add venue and time-zone information after conference logistics are released.
